@@ -1,0 +1,13 @@
+PWM pins arduino UNO
+
+Digital PWM pin 3  => PWM1
+Digital PWM pin 5  => PWM2
+Digital PWM pin 6  => PWM3
+Digital PWM pin 9 => PWM4
+
+Direction pins arduino
+
+Digital pin 2 => DIR1
+Digital pin 4 => DIR2
+Digital pin 7 => DIR3
+Digital pin 8 => DIR4
